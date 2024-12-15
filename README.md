@@ -1,6 +1,7 @@
-# KatasEntornos
+# *KatasEntornos*
 
-  En este proyecto puedes encontrar dos archivos .java. En primer lugar, *Fizzbuzz.java* recrea el famoso juego de niños homónimo. El segundo: *Tamagotchi.java*, es un breve código que recrea una pequeña mascota virtual.
+  En este proyecto puedes encontrar dos archivos .java. En primer lugar, *Fizzbuzz.java* recrea el famoso juego de niños homónimo. El segundo: *Tamagotchi.java*, es un breve código que recrea una pequeña mascota virtual. Junto al código, he realizado una pequeña tarea de *debugueo*, añadiendo algunos *breakpoints* y observando el comportamiento de las variables.
+  
 
 ## FIZZBUZZ
   Se trata de un juego en el que se van listando los números naturales en orden ascendente a partir del 1. Si el número es divisible entre 3, debe sustituirse su nombre por el sonido "Fizz". Si es divisible por 5, debe sustituirse por "Buzz". Y cuando ambos criterios se cumplen debe gritarse "FIZZBUZZ".
