@@ -69,7 +69,19 @@ public class Tamagotchi {
 	        }
 	        	return ":-|"; // Otros casos
 	    }
-
+		 //Creamos un main para probar nuestro tamagotchi
+	    public static void main(String[] args) {
+	    	
+	    	//Creamos uno nuevo que se llamará Pepito
+	    	
+	    	Tamagotchi Pepillo = new Tamagotchi();
+	    	
+	    	//Y lo ponemos a jugar, comer y dormir
+	    	
+	    	Pepillo.play();
+	    	Pepillo.eat();
+	    	Pepillo.sleep();
+	    }
 
 	    }
 	
